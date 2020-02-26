@@ -1,9 +1,5 @@
 
-
-
-
-// EXPERT Solution of the challenge 
-
+// Read the file ReadMeFirst to understand the following Code 
 (function() {
   // function contsructor
   function Question(question, answers, correct) {
